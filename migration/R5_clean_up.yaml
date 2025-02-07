@@ -1,0 +1,7 @@
+dimension: region
+rename:
+  - R5ASIA: Asia (R5)
+  - R5LAM: Latin America (R5)
+  - R5MAF: Middle East & Africa (R5)
+  - R5OECD90+EU: OECD & EU (R5)
+  - R5REF: Reforming Economies (R5)

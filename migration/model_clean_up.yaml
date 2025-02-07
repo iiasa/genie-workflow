@@ -1,0 +1,4 @@
+dimension: model
+rename:
+  - MESSAGEix-GLOBIOM_1.1 : MESSAGEix-GLOBIOM 1.1
+  - MESSAGEix-GLOBIOM_1.2 : MESSAGEix-GLOBIOM 1.2
