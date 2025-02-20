@@ -4,7 +4,7 @@ repositories:
 definitions:
   region:
     repository: 
-    name: common-definitions
-    exclude: 
-      - hierarchy: G20 Members
+     name: common-definitions
+     exclude: 
+       - hierarchy: G20 Members
   country: true 
