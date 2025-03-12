@@ -1,0 +1,15 @@
+# This is an alternative way to define five regions according
+#  to the Annex I vs. Annex II distinction in the Kyoto Protocol.
+- R5 (Kyoto Annex):
+    - China & Centrally Planned Asia (R5 Kyoto Annex):
+        description: China
+    - OECD & EU (R5 Kyoto Annex):
+        description: North America, Europe, Japan, Australia and New Zealand
+    - Developed Regions (R5 Kyoto Annex):
+        description: North America, Europe, Japan, Australia and New Zealand
+    - Latin America (R5 Kyoto Annex):
+        description: Latin and South American countries
+    - Middle East & Africa (R5 Kyoto Annex):
+        description: Middle East and African countries
+    - South & South East Asia (R5 Kyoto Annex):
+        description: South and South East Asia
